@@ -1,0 +1,16 @@
+/home/marcos/Documentos/DemoPOO/DemoPOO/bin/Debug/net5.0/DemoPOO
+/home/marcos/Documentos/DemoPOO/DemoPOO/bin/Debug/net5.0/DemoPOO.deps.json
+/home/marcos/Documentos/DemoPOO/DemoPOO/bin/Debug/net5.0/DemoPOO.runtimeconfig.json
+/home/marcos/Documentos/DemoPOO/DemoPOO/bin/Debug/net5.0/DemoPOO.runtimeconfig.dev.json
+/home/marcos/Documentos/DemoPOO/DemoPOO/bin/Debug/net5.0/DemoPOO.dll
+/home/marcos/Documentos/DemoPOO/DemoPOO/bin/Debug/net5.0/ref/DemoPOO.dll
+/home/marcos/Documentos/DemoPOO/DemoPOO/bin/Debug/net5.0/DemoPOO.pdb
+/home/marcos/Documentos/DemoPOO/DemoPOO/obj/Debug/net5.0/DemoPOO.csproj.AssemblyReference.cache
+/home/marcos/Documentos/DemoPOO/DemoPOO/obj/Debug/net5.0/DemoPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Documentos/DemoPOO/DemoPOO/obj/Debug/net5.0/DemoPOO.AssemblyInfoInputs.cache
+/home/marcos/Documentos/DemoPOO/DemoPOO/obj/Debug/net5.0/DemoPOO.AssemblyInfo.cs
+/home/marcos/Documentos/DemoPOO/DemoPOO/obj/Debug/net5.0/DemoPOO.csproj.CoreCompileInputs.cache
+/home/marcos/Documentos/DemoPOO/DemoPOO/obj/Debug/net5.0/DemoPOO.dll
+/home/marcos/Documentos/DemoPOO/DemoPOO/obj/Debug/net5.0/ref/DemoPOO.dll
+/home/marcos/Documentos/DemoPOO/DemoPOO/obj/Debug/net5.0/DemoPOO.pdb
+/home/marcos/Documentos/DemoPOO/DemoPOO/obj/Debug/net5.0/DemoPOO.genruntimeconfig.cache
